@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Filipe
 
 💻 Infrastructure | 🤖 Artificial Intelligence | 🛡️ Cybersecurity  
-🚀 Projeto principal: **Sedano Project**
+🚀 Projeto principal: **Sedano Atlas Project**
 
 ---
 
